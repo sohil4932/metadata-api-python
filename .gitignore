@@ -1,5 +1,6 @@
-env/
+nft/
 *.DS_Store
 .idea/
 credentials/*
 .env
+pyvenv.cfg
